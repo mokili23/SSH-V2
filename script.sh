@@ -27,14 +27,17 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
+servermessage="<h6><font color='#F57F17'>
 GCPSSH
-</font></h3>
-<h4><font color='cyan'>
+</font></h6>
+<h4><font color='#388E3C'>
 FREE SSH
 </font></h4>
-<h3><font color='red'>
-THANK YOU
+<h4><font color='#1A237E'>
+𐌌𐌀𐌕𐌀𐌋𐌉
+</font></h4>
+<h3><font color='#B39DDB'>
+𝕮𝖗𝖊𝖉𝖎𝖙 𝖋𝖔𝖚𝖗 𝖟𝖊𝖗𝖔 𝖋𝖔𝖚𝖗
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
